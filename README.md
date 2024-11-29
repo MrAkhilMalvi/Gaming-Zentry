@@ -1,4 +1,10 @@
+🎮 Gaming Zentry
+Live Demo: gaming-zentry.vercel.app
+Developer: Akhil Malviya
 
+<div align="center"> <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" /> <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" /> </div>
+🚀 Introduction
+Gaming Zentry is a visually stunning website designed to showcase cutting-edge design, interactive elements, and seamless performance. Inspired by award-winning designs, this project focuses on delivering a unique and immersive experience with advanced scroll animations, geometric transitions, and responsive UI/UX.
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
