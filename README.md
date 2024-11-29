@@ -1,6 +1,7 @@
 🎮 Gaming Zentry
 Live Demo: gaming-zentry.vercel.app
-Developer: Akhil Malviya
+
+<div align="center"> <h1 style="font-size: 36px;">🚀 Developed by</h1> <h1 style="font-size: 48px; font-weight: bold;">Akhil Malviya</h1> <a href="https://github.com/akhil-malviya"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="mailto:malviyaakhil@gmail.com"> <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/> </a> </div>
 
 <div align="center"> <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" /> <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" /> </div>
 🚀 Introduction
